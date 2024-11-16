@@ -1,19 +1,7 @@
-<h2 align="left">Hi there 👋! My name is Hadj-Amer and I'm a Flutter Developer.</h2>
+<h2 align="left">Hi there!, My name is Hadj-Amer and I'm a Flutter Developer.</h2>
 
-# 💫 About Me:
-🔭 I’m currently working as a Flutter Developer at ApolloDS<br>🌱 I’m currently learning Jetpack Compose Android Development<br>📫 How to reach me: look below!
-
-# 📊 GitHub Stats:
-###
-
-<div align="center">
-  <div style="display: inline-block; width: 33.33%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=@AmerDje&theme=dark&hide_border=false" alt="stats graph" style="width: 100%;">
-  </div></br>
-</div>
-
-
-###
+# About Me:
+ I’m an Application Developer at Akakus Oil Operations<br> How to reach me: look below!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
