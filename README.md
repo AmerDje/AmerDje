@@ -1,7 +1,7 @@
 <h2 align="left">Hi there!, My name is Hadj-Amer and I'm a Application Developer.</h2>
 
 # About Me:
- I’m an Application Developer at Akakus Oil Operations<br> How to reach me: look below!
+ I’m an Application Developer at Akakus Oil Operations<br/> How to reach me: look below!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -49,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
