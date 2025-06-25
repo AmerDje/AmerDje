@@ -1,7 +1,7 @@
 <h2 align="left">Hi there!, My name is Hadj-Amer.</h2>
 
 # About Me:
- I’m an Application Developer at Akakus Oil Operations.<br/> How to reach me: look below!
+ I am an Application Developer at Akakus Oil Operations.<br/> How to reach me: look below!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
