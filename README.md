@@ -1,4 +1,4 @@
-<h2 align="left">Hi there!, My name is Hadj-Amer.</h2>
+<h2 align="left">Hi, My name is Hadj-Amer.</h2>
 
 <h2 align="left">About Me:</h2>
  I'm an Application Developer at Akakus Oil Operations.<br/>
