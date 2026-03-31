@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Application Developer at Akakus Oil Operations</b><br/>
-  I develop mobile and backend applications, and design user interfaces.
+  I develop mobile and full-stack applications, and design user interfaces.
 </p>
 
 ###
