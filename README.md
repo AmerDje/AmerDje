@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!, I'm Hadj-Amer</h1>
 
 <p align="center">
-  <b>Application Developer at Akakus Oil Operations</b><br/>
+  <b>Application Developer</b> at Akakus Oil Operations<br/>
   I develop mobile and full-stack applications, and design user interfaces.
 </p>
 
